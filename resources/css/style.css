@@ -4,8 +4,8 @@ body {
 }
 
 .top {
-  color: aqua;
-  background-image: url("./images/background.png");
+  color: white;
+  background-image: url("../images/background.png");
 }
 
 h1,
@@ -36,9 +36,12 @@ h3 {
 
 .footer {
   text-align: left;
-  color: aqua;
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
 }
 
 #designed {
-  color:aqua;
+  color:white;
+  background-image: url("../images/background.png");
 }
